@@ -1,2 +1,2 @@
-# Arquitetura-de-Computadores
-4º Semestre do curso de Engenharia da Computação - UFSM
+# Computer Architecture
+Computer Architecture material from 4th semester of Computer Engineering - UFSM
